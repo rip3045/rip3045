@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Xin chào
+I'm Glen (Rip) Merritt, PhD from the University of Alabama
+
+I am passionate about and work in robotics and AI, together called embodied intelligence. 
+I have worked with deep learning, Neural Net Control Systems, Cyberphysical Human Systems, Additive Manufacturing, and Sensor Fusion. 
+(Please see publications and repositories)
 
 <!--
 **rip3045/rip3045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
