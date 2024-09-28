@@ -5,6 +5,10 @@ I am passionate about and work in robotics and AI, together called embodied inte
 I have worked with deep learning, Neural Net Control Systems, Cyberphysical Human Systems, Additive Manufacturing, and Sensor Fusion. 
 (Please see publications and repositories)
 
+I currently work as a mechanical engineer and product manager at Mujin Inc, advancing the capabilities of industrial robotics.
+
+On the side, I see what LLMs are capable of and integrate them into my daily life and workflow.
+
 <!--
 **rip3045/rip3045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
